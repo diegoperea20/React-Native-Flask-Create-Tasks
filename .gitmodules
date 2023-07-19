@@ -1,0 +1,3 @@
+[submodule "fronted-tasks-react-native"]
+	path = fronted-tasks-react-native
+	url = https://github.com/diegoperea20/fronted-tasks-react-native.git
