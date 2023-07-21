@@ -4,7 +4,7 @@ Flask REST API with sqlalchemy mysql where there is a login and register (you ca
 </p>
 
 <p align="center">
-  <img src="README-images/login.jpg" alt="Step1">
+  <img src="README-images/login.jpg" width="350" height="700" alt="Step1">
 </p>
 
 <p align="justify">
@@ -12,7 +12,7 @@ First create an account where you must create a username, password ("Must includ
 </p>
 
 <p align="center">
-  <img src="README-images/loginup.jpg" alt="Step2">
+  <img src="README-images/loginup.jpg" width="350" height="700" alt="Step2">
 </p>
 
 <p align="justify">
@@ -25,7 +25,7 @@ In login enter your username and password, click on the "Login" button.
 </p>
 
 <p align="center">
-  <img src="README-images/login-1.jpg" alt="Step4">
+  <img src="README-images/login-1.jpg" width="350" height="700" alt="Step4">
 </p>
 
 
@@ -34,7 +34,7 @@ After logging in you will see the home screen where you will see your user name 
 </p>
 
 <p align="center">
-  <img src="README-images/home.jpg" alt="Step5">
+  <img src="README-images/home.jpg" width="350" height="700" alt="Step5">
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ In change password you can change your password and email if required.
 </p>
 
 <p align="center">
-  <img src="README-images/changepassword.jpg" alt="Step6">
+  <img src="README-images/changepassword.jpg" width="350" height="700"  alt="Step6">
 </p>
 
 <p align="justify">
@@ -50,14 +50,14 @@ In task, you can create a title and a description of your choice, you can edit a
 </p>
 
 <p align="center">
-  <img src="README-images/task.jpg" alt="Step7">
+  <img src="README-images/task.jpg" width="350" height="700" alt="Step7">
 </p>
 
 <p align="center">
-  <img src="README-images/task-1.jpg" alt="Step8">
+  <img src="README-images/task-1.jpg" width="350" height="700" alt="Step8">
 </p>
 <p align="center">
-  <img src="README-images/task-2.jpg" alt="Step9">
+  <img src="README-images/task-2.jpg" width="350" height="700"  alt="Step9">
 </p>
 
 <p align="justify">
@@ -66,11 +66,11 @@ Once you have created your task you can edit it with the "Edit" button where you
 
 
 <p align="center">
-  <img src="README-images/task-change.jpg" alt="Step10">
+  <img src="README-images/task-change.jpg" width="350" height="700"  alt="Step10">
 </p>
 
 <p align="center">
-  <img src="README-images/taskchange-1.jpg" alt="Step10">
+  <img src="README-images/taskchange-1.jpg" width="350" height="700"  alt="Step10">
 </p>
 
 <p align="justify">
@@ -78,7 +78,7 @@ In this same section there are three buttons in which "Task" to return to Task, 
 </p>
 
 <p align="center">
-  <img src="README-images/same.jpg" alt="Step11">
+  <img src="README-images/same.jpg" width="350" height="700" alt="Step11">
 </p>
 
 <p align="justify">
@@ -96,7 +96,7 @@ But if there are the same titles, the table of the selected button appears, in t
 But if there are the same titles, the table of the selected button appears, in this case "People Emails same title":
 </p>
 <p align="center">
-  <img src="README-images/same-show.jpg" alt="Step14">
+  <img src="README-images/same-show.jpg" width="350" height="700"  alt="Step14">
 </p>
 
 ## Steps to implement it
